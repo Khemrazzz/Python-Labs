@@ -160,6 +160,6 @@ for i in range(len(numarray)):
     print('Enter a number (', i, ')...')
     numarray[i] = int(input())
     
-print('Total is ', numarray.sum())
+print('Total is ', numarray.sum()
 
 """
